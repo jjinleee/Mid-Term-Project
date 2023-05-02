@@ -10830,3 +10830,12 @@ textarea.form-control-lg {
   background-position: center;
   background-size: cover;
 }
+.imgContainer img {
+  height: 300px;
+}
+.subtitle p{
+  font-size: 35px;
+  font-weight: 900;
+  font-family: 'Oswald', sans-serif;
+  color: #000087;
+}
